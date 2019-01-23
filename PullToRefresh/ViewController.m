@@ -34,6 +34,7 @@
     [_array addObject:@"x"];
     [_array addObject:@"y"];
     [_array addObject:@"z"];
+    [_array addObject:@"z"];
     
     [_tableView reloadData];
 }
